@@ -1,0 +1,7 @@
+Hamburger, 200, 20, 1
+Tavuk D�r�m, 85, 20, 0
+Tost, 45, 10, 0
+Et D�r�m, 160, 15, 1
+Kumru, 45, 10, 1
+Sufle, 65, 15, 1
+Tavuk, 80, 20,1
