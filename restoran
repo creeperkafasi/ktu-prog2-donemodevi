@@ -1,0 +1,1 @@
+gcc restoran.c -o restoran.out && ./restoran.out
